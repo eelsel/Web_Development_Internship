@@ -1,0 +1,31 @@
+table,
+tr,
+td,
+th {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  max-width: 1400px;
+}
+
+td {
+  background-color: #dddbf1;
+  text-align: center;
+}
+
+th {
+  background-color: #ab9f9d;
+  color: #383f51;
+}
+
+.name {
+  text-align: left;
+  background-color: #383f51;
+  color: #ab9f9d;
+}
+
+.why {
+  text-align: left;
+}
