@@ -1,0 +1,21 @@
+table,
+tr,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  width: 100px;
+  height: 15px;
+  text-align: center;
+}
+
+.blue {
+  background-color: aqua;
+}
+
+.yellow {
+  background-color: yellow;
+}
